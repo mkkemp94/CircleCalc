@@ -43,7 +43,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
 
     testImplementation 'junit:junit:4.12'
-    
+
     // optional - Test helpers for LiveData
     testImplementation "androidx.arch.core:core-testing:$arch_version"
     testImplementation "com.google.truth:truth:1.0.1"
